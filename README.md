@@ -1,2 +1,2 @@
 # InvoicingApplication
-Create and update account records, to include markinf invoices as due or paid. 
+Create and update account records, to include marking invoices as due or paid. 
